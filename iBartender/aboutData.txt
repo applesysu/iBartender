@@ -1,0 +1,6 @@
+WineData
+isLocked：是否解锁（格式：NSString，"YES" or "NO"）
+inGameUse：在游戏中使用了哪些酒（格式：NSArray）
+CollectionData：收藏里面的配方（格式：NSString，用来存放id）；
+PS：配方，要有唯一性判断；
+id：配方的id，id由时间生成，保证每个id不一样（格式：NSArray）

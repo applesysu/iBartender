@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>wine13_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 36}, {373, 211}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 16}</string>
+			<key>spriteSize</key>
+			<string>{373, 211}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{395, 273}, {373, 211}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 39}, {373, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 16}</string>
+			<key>spriteSize</key>
+			<string>{373, 205}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{395, 486}, {373, 205}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 41}, {371, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 18}</string>
+			<key>spriteSize</key>
+			<string>{371, 197}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{768, 693}, {371, 197}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 43}, {369, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 19}</string>
+			<key>spriteSize</key>
+			<string>{369, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{770, 396}, {369, 191}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 45}, {367, 183}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 21}</string>
+			<key>spriteSize</key>
+			<string>{367, 183}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{395, 900}, {367, 183}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 47}, {365, 177}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 22}</string>
+			<key>spriteSize</key>
+			<string>{365, 177}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{395, 1085}, {365, 177}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 49}, {363, 171}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 23}</string>
+			<key>spriteSize</key>
+			<string>{363, 171}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1141, 396}, {363, 171}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 46}, {365, 173}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 25}</string>
+			<key>spriteSize</key>
+			<string>{365, 173}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1133, 1081}, {365, 173}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 40}, {367, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 27}</string>
+			<key>spriteSize</key>
+			<string>{367, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{764, 1081}, {367, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 36}, {369, 187}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 28}</string>
+			<key>spriteSize</key>
+			<string>{369, 187}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{768, 892}, {369, 187}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 31}, {369, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 30}</string>
+			<key>spriteSize</key>
+			<string>{369, 193}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{790, 201}, {369, 193}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 27}, {369, 199}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 31}</string>
+			<key>spriteSize</key>
+			<string>{369, 199}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{790, 0}, {369, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{46, 23}, {371, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 32}</string>
+			<key>spriteSize</key>
+			<string>{371, 205}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{395, 693}, {371, 205}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 19}, {393, 273}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{393, 273}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 550}, {393, 273}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 19}, {393, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{393, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1100}, {393, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 19}, {393, 273}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{393, 273}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 275}, {393, 273}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 19}, {393, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{393, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1373}, {393, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 19}, {393, 273}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{393, 273}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {393, 273}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 19}, {393, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 3}</string>
+			<key>spriteSize</key>
+			<string>{393, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{395, 0}, {393, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_20.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 19}, {393, 273}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{393, 273}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 825}, {393, 273}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>wine13_21.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{24, 19}, {393, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{393, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{439, 315}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1646}, {393, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.2</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>wine_13-hd</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>wine_13-hd</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
